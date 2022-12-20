@@ -1,6 +1,7 @@
 [
   {
     "ad_id": "1",
+    "abc": "7",
     "event_response_headers": {
       "Attribution-Reporting-Register-Source": {
         "source_event_id": "12340873451",
